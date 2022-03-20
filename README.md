@@ -13,7 +13,7 @@
 <p align="left">
 <a href="https://instagram.com/aliya._.09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aliya._.09" height="30" width="40" /></a>
 
-<a href="https://twitter.com/Farisaliya09" target="blank"><img align="center" src=""https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Farisaliya09" height="30" width="40" /></a>
+<a href="https://twitter.com/Farisaliya09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Farisaliya09" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
