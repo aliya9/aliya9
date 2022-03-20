@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **DSA and Python**
 
-- 👨‍💻 All of my projects are available at **<currently building>**
+- 👨‍💻 All of my projects are available at **_currently building_**
 
 - 📫 How to reach me **farisaliya2004@gmail.com**
 
