@@ -7,7 +7,6 @@
 
 - 📫 How to reach me **farisaliya2004@gmail.com**
 
-- ⚡ Fun fact **I think I am a good learner.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
